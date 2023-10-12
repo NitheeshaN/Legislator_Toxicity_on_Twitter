@@ -1,2 +1,8 @@
-# Legislator_Toxicity_on_Twitter
+# The Racial and Gender Divide in Toxic Online Messaging Towards Politicians
 This project evaluates the racial and gendered biases of toxic rhetoric on Twitter towards state legislators.
+
+Author: Nitheesha Nakka
+
+On February 17th, 2023, Twitter user James Eugene Carpenter III posted a tweet threatening to kill “anyone that is Jewish” in the Michigan government (Colin 2023). This includes Democratic representative Samantha Steckloff (district-Farmington Hills). Following Carpenter’s arrest Representative Steckloff stated that “Every day there’s social media outbursts about killing of Jews. Every single day. And it has only risen” (Colin 2023). This incidence of online violence highlights the uniquely vulnerable position that state lawmakers hold in American society. State legislators are situated “closer to home” both geographically and through their constituency service that creates fewer degrees of separation between them and those who would enact violence against them. And with the added accessibility and reach of Twitter, legislators are also susceptible targets to online violence. Online hate speech is a form of violence against politicians that can cause serious psychological damage. And if left unchecked online violence can have serious offline consequences. Carpenters’ anti-semetic death threats on Twitter show us that politicians’ identity plays a role in the online hate speech directed towards them. The paper I present explores the role of identity and specifically how legislators racial and gender identity effects how the public speak to them on Twitter.
+
+Colin, Jackson. 2023. Man arrested, accused of antisemitic threats against Michigan elected officials. Michigan Radio. March 3. MPRN.
