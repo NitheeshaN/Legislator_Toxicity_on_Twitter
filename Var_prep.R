@@ -8,7 +8,7 @@ library(tidyr)
 ############################################################################
 ########################### METADATA p/ HANDLE ###########################
 Race_Variable_Complete2_0 <- read_excel("Race Variable Complete2.0.xlsx")
-nodes_R1 <- readRDS("~/OneDrive - The Pennsylvania State University/MA_legis_data_collection/handle_data/nodes_R1.rds")
+nodes_R1 <- readRDS("nodes_R1.rds")
 #import the handles csv
 
 ############# GENDER
