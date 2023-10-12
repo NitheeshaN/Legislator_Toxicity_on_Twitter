@@ -28,7 +28,7 @@ for(i in seq.list){
                     prsp_stream(text = text,
                                 text_id = textid,
                                 score_model = c("TOXICITY", "SEVERE_TOXICITY"),
-                                key = "AIzaSyCIrqU1sTGoEGy8p7ci0mWoAQXDJAXvTx8",
+                                key = "",
                                 safe_output = T,
                                 verbose = T
                     ))
@@ -42,7 +42,7 @@ for(i in seq.list){
                            prsp_stream(text = text,
                                        text_id = textid,
                                        score_model = c("TOXICITY", "SEVERE_TOXICITY"),
-                                       key = "AIzaSyCIrqU1sTGoEGy8p7ci0mWoAQXDJAXvTx8",
+                                       key = "",
                                        safe_output = T,
                                        verbose = T
                            ))
@@ -56,7 +56,7 @@ for(i in seq.list){
                           prsp_stream(text = text,
                                       text_id = textid,
                                       score_model = c("TOXICITY", "SEVERE_TOXICITY"),
-                                      key = "AIzaSyCIrqU1sTGoEGy8p7ci0mWoAQXDJAXvTx8",
+                                      key = "",
                                       safe_output = T,
                                       verbose = T
                           ))
@@ -67,7 +67,7 @@ for(i in seq.list){
   
 }
 
-saveRDS(master.frame, "frame1_57600.rds")
+saveRDS(master.frame, "master.frame.rds")
 
 
 
